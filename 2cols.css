@@ -38,7 +38,7 @@ header {
   display: flex;
   background-color: blue;
   flex: 1;
-  background-image: url();
+  background-color: rgb(12, 12, 12);
   background-position: center;
   object-fit:cover;
 }
