@@ -47,7 +47,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(12, 12, 12);
+  background-image: url(/5851943.png);
   flex: 1;
 }
 
@@ -66,7 +66,7 @@ header {
       display: none;}
 
     .col2 {
-      background-image: url(/5851943.png);
+      background-color: rgb(12, 12, 12);
       background-position: center;
       object-fit: cover;
       font-size: 14px;}
